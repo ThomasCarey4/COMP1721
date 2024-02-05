@@ -3,10 +3,9 @@ package ex;
 public class Ex6_Circle {
     private final double radius;
 
-    Ex6_Circle(double radius) {
+    public Ex6_Circle(double radius) {
         this.radius = radius;
     }
-
     public double getRadius() {
         return radius;
     }
@@ -18,4 +17,5 @@ public class Ex6_Circle {
     public double perimeter() {
         return 2 * Math.PI * radius;
     }
+
 }
