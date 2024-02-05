@@ -2,7 +2,7 @@ package ex;
 
 import java.util.Scanner;
 
-public class Spheroid {
+public class Ex2_Spheroid {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter equatorial radius in km: ");

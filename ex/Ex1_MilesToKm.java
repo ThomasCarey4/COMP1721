@@ -2,7 +2,7 @@ package ex;
 
 import java.util.Scanner;
 
-public class MilesToKm {
+public class Ex1_MilesToKm {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter distance in miles: ");
